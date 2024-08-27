@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+openpyxl
+joblib
+pytesseract
+pdf2image
+opencv-python
+Pillow
+PyMuPDF
+pdfplumber
+pyspellchecker
+nltk
+PyPDF2
